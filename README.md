@@ -1,5 +1,6 @@
 # Roadmap-Generator
-Generate Roadmap according to your requirement
+
+User input topic and duration and it will generate roadmap day wose and give resorces to complete the topic
 
 
 ![Image](https://github.com/user-attachments/assets/b8e4e92c-e60c-4f90-9bd7-9c65a1fed527)
@@ -13,12 +14,12 @@ Generate Roadmap according to your requirement
 
 # How to Set Up it?
 
-The following instructions were tested on the Windows and Linux with Python 3.8.
+The following instructions were tested on the Windows and Linux with Python 3.10.
 
 1. Clone this repository
 
 ```
-git clone https://github.com/Bishakha0808/Roadmap-Generator.git
+git clone https://github.com/LahaArnab/Day-wise-Roadmap-Generator.git
 ```
 ```
 cd Roadmap-Generator/

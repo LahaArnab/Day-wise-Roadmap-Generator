@@ -6,10 +6,10 @@ from azure.ai.inference.models import SystemMessage, UserMessage
 from azure.core.credentials import AzureKeyCredential
 
 # API
-AZURE_API_KEY = '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'  # Replace with your Azure token
+AZURE_API_KEY = 'ghp_r1ILyJwgVdp0E5DagtJj9NEy'  # Replace with your Azure token
 AZURE_ENDPOINT = "https://models.github.ai/inference"
 AZURE_MODEL = "openai/gpt-4.1"
-YOUTUBE_API_KEY = "AIzaSyB3wotkvjJCiRB3j29GopwAvzgsLnYgaQY"  # Replace with your YouTube Data API key
+YOUTUBE_API_KEY = "AIzaSyB3wotkvjwAvzgsLnYgaQY"  # Replace with your YouTube Data API key
 
 # AZURE OPENAI
 client = ChatCompletionsClient(

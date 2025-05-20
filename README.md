@@ -22,7 +22,7 @@ The following instructions were tested on the Windows and Linux with Python 3.10
 git clone https://github.com/LahaArnab/Day-wise-Roadmap-Generator.git
 ```
 ```
-cd Roadmap-Generator/
+cd Day-wise-Roadmap-Generator/
 ```
 
 2. Create and activate virtual environment 
